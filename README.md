@@ -18,9 +18,9 @@ I'm a passionate developer with over 3+ years of experience building high-qualit
 
 ## 📱 Projects
 
-> 🚧 Company-owned code can't be shared, but I’ll be publishing personal mini-projects soon! Stay tuned.
+> 🚧 Company-owned code can't be shared, but I’ll publish personal mini-projects soon! Stay tuned.
 
-- 🎓 [Koid – AI Educational App] (In Progress)
+- 🎓 Koid – AI Educational App 
 - 🏸 Tennis App – For players & coaches
 - 🎉 Procial – Event management platform
 - 🎥 Six Dreams – Multimedia streaming & gaming
