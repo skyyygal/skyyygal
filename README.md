@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Anita Kumari Pandey!
 
-🎯 Flutter Developer | Cross-Platform App Specialist | Bengaluru, India
+Flutter Developer | Cross-Platform App Specialist | Bengaluru, India
 
 I'm a passionate developer with over 3+ years of experience building high-quality apps for Android and the web using Flutter & Dart. I love transforming ideas into smooth, scalable mobile experiences. 
 
-- 🔭 I’m currently working on an AI-powered edtech app with live classes and scheduling.
-- 🌱 Constantly learning new tech.
+-  I’m currently working on an AI-powered edtech app with live classes and scheduling.
+-  Constantly learning new tech.
 
 ## 🛠 Tech Stack
 
@@ -18,6 +18,7 @@ I'm a passionate developer with over 3+ years of experience building high-qualit
 ## 📱 Projects
 
 > 🚧 Company-owned code can't be shared, but I’ll publish personal mini-projects soon! Stay tuned.
+-Retroskybooth - Digital photobooth app. [Own project]
 
 - 🎓 Koid – AI Educational App 
 - 🏸 Tennis App – For players & coaches
