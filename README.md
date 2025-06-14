@@ -5,13 +5,12 @@
 I'm a passionate developer with over 3+ years of experience building high-quality apps for Android and the web using Flutter & Dart. I love transforming ideas into smooth, scalable mobile experiences. 
 
 - 🔭 I’m currently working on an AI-powered edtech app with live classes and scheduling.
-- 🌱 Constantly learning new tech like LiveKit, PubNub, and Gemini AI.
-- ⚡ Fun fact: I also explore game dev with Unreal Engine (Blueprints + C++)!
+- 🌱 Constantly learning new tech.
 
 ## 🛠 Tech Stack
 
 - Flutter | Dart | Firebase | REST API
-- State Management: GetX, BLoC, Provider
+- State Management: GetX, BLoC, Riverpod
 - SQLite, SQFlite, GetXStorage
 - Razorpay, Agora, Google Maps, LiveKit
 - Git | GitHub | CI/CD Basics
