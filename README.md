@@ -11,7 +11,7 @@ I'm a passionate developer with over 3+ years of experience building high-qualit
 
 - Flutter | Dart | Firebase | REST API
 - State Management: GetX, BLoC, Riverpod
-- SQLite, SQFlite, GetXStorage
+- SQFlite, GetXStorage
 - Razorpay, Agora, Google Maps, LiveKit
 - Git | GitHub | CI/CD Basics
 
